@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tugas Recycler View</string>
+    <string name="bio_pattimura">
+        Pattimura lahir pada 8 Juni 1783 di Saparua, Maluku.
+        Pattimura merupakan anak dari pasangan Frans Matulessy dan Fransina Silahoi.
+    </string>
+    <string name="bio_kartini">
+        Raden Ajeng Kartini atau R.A Kartini, adalah seorang perempuan asal Jepara
+        yang lahir pada 21 April 1879. Kartini merupakan keturunan bangsawan
+    </string>
+    <string name="bio_ki_hajar_dewantara">
+        Lahir dengan nama asli Raden Mas Soewardi Soerjaningrat, Ki Hajar Dewantara terlahir
+        dari keluarga kraton Yogyakarta sebagai golongan ningrat. Selain menjadi aktivis pergerakan
+        kemerdekaan Indonesia, ia juga seorang kolumnis, politisi, dan pelopor pendidikan bagi kaum pribumi Indonesia dari zaman penjajahan Belanda.
+    </string>
+    <string name="bio_ahmad_yani">
+        Ahmad Yani lahir di Jenar, Purworejo, Keresidenan Kedu pada tanggal 19 Juni 1922 dari
+        keluarga Wongsoredjo. Keluarga ini bekerja di sebuah pabrik gula yang milik seorang Belanda.
+        Pada tahun 1927, Yani pindah dengan keluarganya ke Batavia. Di Batavia, Yani mengecap pendidikan dasar dan menengah
+    </string>
+    <string name="bio_sultan_hasanuddin">
+        Sultan Hasanuddin (Dijuluki Ayam Jantan dari Timur oleh Belanda) (12 Januari 1631 – 12 Juni 1670)
+        adalah Sultan Gowa ke-16 dan pahlawan nasional Indonesia yang terlahir dengan nama Muhammad Bakir I Mallombasi Daeng
+        Mattawang Karaeng Bonto Mangape. Setelah menaiki takhta, ia digelar Sultan Hasanuddin, setelah meninggal ia digelar Tumenanga Ri Balla Pangkana.
+        Karena keberaniannya, ia dijuluki De Haantjes van Het Osten oleh Belanda yang artinya Ayam Jantan dari Timur.
+    </string>
+</resources>
